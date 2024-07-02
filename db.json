@@ -1,0 +1,82 @@
+{
+  "books": [
+  {
+    "id": "6683b8ecba85bdf70a3ed9ea",
+    "title": "ex laborum",
+    "genre": {
+      "id": "6683b8ec0e9f4210eac932df",
+      "name": "romance"
+    },
+    "rating": 3.903,
+    "publisher": "laboris velit",
+    "publication_year": 2015
+  },
+  {
+    "id": "6683b8ecb5376c86bd3c8d25",
+    "title": "dolore fugiat",
+    "genre": {
+      "id": "6683b8ec16255f7128303f77",
+      "name": "adventure"
+    },
+    "rating": 2.352,
+    "publisher": "adipisicing Lorem",
+    "publication_year": 2018
+  },
+  {
+    "id": "6683b8ecb1e3bdab597b0396",
+    "title": "cupidatat officia",
+    "genre": {
+      "id": "6683b8ec6600a66520c0c2aa",
+      "name": "detective"
+    },
+    "rating": 2.036,
+    "publisher": "incididunt sint",
+    "publication_year": 2020
+  },
+  {
+    "id": "6683b8ec8a066639917f6204",
+    "title": "non duis",
+    "genre": {
+      "id": "6683b8ecdc52232f351ccba7",
+      "name": "science fiction"
+    },
+    "rating": 3.656,
+    "publisher": "tempor excepteur",
+    "publication_year": 2015
+  },
+  {
+    "id": "6683b8ecd520ca23999bb478",
+    "title": "ad excepteur",
+    "genre": {
+      "id": "6683b8ec26ffba4997a257cd",
+      "name": "science fiction"
+    },
+    "rating": 2.208,
+    "publisher": "Lorem do",
+    "publication_year": 2016
+  },
+  {
+    "id": "6683b8ec1228f1dad13cd88e",
+    "title": "eu non",
+    "genre": {
+      "id": "6683b8eca7b6cebd4491399a",
+      "name": "science fiction"
+    },
+    "rating": 2.587,
+    "publisher": "eiusmod nisi",
+    "publication_year": 2020
+  },
+  {
+    "id": "6683b8eceeddf9173326cb3f",
+    "title": "ut ullamco",
+    "genre": {
+      "id": "6683b8ec4f195a931d48cb70",
+      "name": "detective"
+    },
+    "rating": 2.561,
+    "publisher": "excepteur aliqua",
+    "publication_year": 2018
+  }
+],
+author
+}
